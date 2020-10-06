@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\EjerciciosStruct\\EjerciciosStruct\\EjerciciosStruct.csproj": {}
+    "C:\\Users\\User\\Desktop\\DI_Ejercicios_Struct_2020\\EjerciciosStruct\\EjerciciosStruct.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\EjerciciosStruct\\EjerciciosStruct\\EjerciciosStruct.csproj": {
+    "C:\\Users\\User\\Desktop\\DI_Ejercicios_Struct_2020\\EjerciciosStruct\\EjerciciosStruct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\EjerciciosStruct\\EjerciciosStruct\\EjerciciosStruct.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\DI_Ejercicios_Struct_2020\\EjerciciosStruct\\EjerciciosStruct.csproj",
         "projectName": "EjerciciosStruct",
-        "projectPath": "C:\\Users\\User\\Desktop\\EjerciciosStruct\\EjerciciosStruct\\EjerciciosStruct.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\DI_Ejercicios_Struct_2020\\EjerciciosStruct\\EjerciciosStruct.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\EjerciciosStruct\\EjerciciosStruct\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\DI_Ejercicios_Struct_2020\\EjerciciosStruct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
